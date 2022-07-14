@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "avacado plant ",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Avocado_Hass_-_single_and_halved.jpg/1200px-Avocado_Hass_-_single_and_halved.jpg",
+      "price": "20",
+      "id": 8
     }
   ]
 }
